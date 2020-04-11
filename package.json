@@ -1,0 +1,19 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "Bot Discord crée pendant le confinement covid-19.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Jean Dubuc",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.1.1",
+    "erela.js": "^1.1.7",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "superagent": "^5.2.2"
+  }
+}
