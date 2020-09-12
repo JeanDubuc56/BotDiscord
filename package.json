@@ -13,7 +13,7 @@
     "discord.js": "^12.1.1",
     "erela.js": "^1.1.7",
     "fs": "0.0.1-security",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "superagent": "^5.2.2"
   }
 }
